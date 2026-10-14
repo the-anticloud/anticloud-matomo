@@ -1,0 +1,38 @@
+{
+  "project": "MATOMO",
+  "slug_source": "GitHub search API exact-name top match (candidates quoted)",
+  "picked_slug": "matomo-org/matomo",
+  "search_url": "https://api.github.com/search/repositories?q=matomo&per_page=5",
+  "search_status": 200,
+  "candidates": [
+    {
+      "full_name": "matomo-org/matomo",
+      "stars": 21926,
+      "license": "GPL-3.0"
+    },
+    {
+      "full_name": "matomo-org/docker",
+      "stars": 1003,
+      "license": "NOASSERTION"
+    },
+    {
+      "full_name": "matomo-org/matomo-sdk-ios",
+      "stars": 402,
+      "license": "MIT"
+    },
+    {
+      "full_name": "matomo-org/matomo-nginx",
+      "stars": 414,
+      "license": null
+    },
+    {
+      "full_name": "matomo-org/matomo-sdk-android",
+      "stars": 426,
+      "license": "BSD-3-Clause"
+    }
+  ],
+  "commit_url": "https://api.github.com/repos/matomo-org/matomo/commits/6.x-dev",
+  "commit_status": 200,
+  "default_branch": "6.x-dev",
+  "commit_response_excerpt": "{\"sha\":\"39b9531942c45123729ea8eb036e22fd120f6a1b\",\"node_id\":\"C_kwDOABefqtoAKDM5Yjk1MzE5NDJjNDUxMjM3MjllYThlYjAzNmUyMmZkMTIwZjZhMWI\",\"commit\":{\"author\":{\"name\":\"Maximilian Taube\",\"email\":\"34268914+maxtaube@users.noreply.github.com\",\"date\":\"2026-10-06T15:55:54Z\"},\"committer\":{\"name\":\"GitHub\",\"email\":\"noreply@github.com\",\"date\":\"2026-10-06T15:55:54Z\"},\"message\":\"Fix Goal Recommendation Issues (UX, Algorithm) (#25450)\\n\\n* improve link detection algorithm and subdomain handling\\n\\n* Show the reason on goal recommendation cards and add empty and completed states\\n\\n* add try it link to show new fea"
+}
