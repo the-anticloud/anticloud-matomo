@@ -1,0 +1,46 @@
+{
+ "bomFormat": "CycloneDX",
+ "specVersion": "1.5",
+ "serialNumber": "urn:uuid:9efbae17-13c6-505c-ae8f-97d10ef34b93",
+ "version": 1,
+ "metadata": {
+  "timestamp": "2026-10-06T12:41:54Z",
+  "component": {
+   "type": "application",
+   "name": "MATOMO",
+   "version": "83b357604d34",
+   "bom-ref": "pkg:generic/anticloud/MATOMO@83b357604d34",
+   "purl": "pkg:generic/anticloud/MATOMO@83b357604d34",
+   "licenses": [
+    {
+     "license": {
+      "id": "MIT"
+     }
+    }
+   ]
+  },
+  "properties": [
+   {
+    "name": "anticloud:source-commit",
+    "value": "REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE"
+   },
+   {
+    "name": "anticloud:source-url",
+    "value": "<contaminated-url-removed>"
+   },
+   {
+    "name": "anticloud:tier",
+    "value": "tier-agent"
+   }
+  ]
+ },
+ "components": [],
+ "source": {
+  "git": {
+   "head": null,
+   "url": null,
+   "sha_unverified": true,
+   "note": "contamination removed; resolve via GitHub API before quoting"
+  }
+ }
+}
